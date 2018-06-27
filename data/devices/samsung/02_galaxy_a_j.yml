@@ -634,6 +634,7 @@
     - sc02f
     - SC02F
     - SC-02F
+    - hltejs01dcm
   architecture: armeabi-v7a
 
   block_devs:
